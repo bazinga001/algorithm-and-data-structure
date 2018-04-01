@@ -1,8 +1,8 @@
 package main
 
 import (
+	"01线性表/顺序存储/顺序表/sqlist"
 	"fmt"
-	"线性表/顺序存储/顺序表/sqlist"
 )
 
 func main() {

@@ -1,8 +1,8 @@
 package main
 
 import (
+	"01线性表/链式存储/单链表/sllist"
 	"fmt"
-	"线性表/链式存储/单链表/sllist"
 )
 
 func main() {
