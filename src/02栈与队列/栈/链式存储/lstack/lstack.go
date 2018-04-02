@@ -1,4 +1,10 @@
-// 栈顶放到链表的头部, 方面进行插入删除操作
+/*
+NAME:			单链表
+AUTHOR:			bazinga
+CREATETIME: 	2018-04-01
+
+NOTE:			栈顶放到链表的头部, 方便进行插入删除操作
+*/
 
 package lstack
 
